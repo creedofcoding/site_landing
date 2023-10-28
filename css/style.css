@@ -1,4 +1,24 @@
-#logo{
-    width: 200px;
-    height: 200px;
+* {
+    font-family: 'Montserrat';
+}
+
+#logo {
+  width: 200px;
+  height: 200px;
+}
+
+.copy-right-sec {
+  padding: 1.8rem;
+  background: #cfe2ff;
+  color: #000000;
+  text-align: center;
+}
+
+.copy-right-sec a {
+  color: #ff3434;
+  font-weight: 500;
+}
+
+a {
+  text-decoration: none;
 }
